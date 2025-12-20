@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-https://mhd128.iptv2022.com/p/R39RZSHpQJsc_zwR6TNCEA,1766353822/streaming/tntmusic/324/1/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3450000,RESOLUTION=1920x1080
+https://mhd128.iptv2022.com/p/Pd1CnSV7Rnapt8spZhWYYA,1766355679/streaming/tntmusic/324/1/index.m3u8
