@@ -902,6 +902,8 @@ https://albug020.github.io/channels/echannel.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzykamodatv" tvg-logo="https://iptvx.one/picons/muzykamodatv.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=20672&index-${start}-${offset}.m3u8" catchup-days="168",Музыка Мода ТВ 
 #EXTVLCOPT:http-user-agent=smartlabs
 https://albug020.github.io/channels/mmtv.m3u8
+#EXTINF:-1 group-title="Региональные" tvg-id="udmurtia" tvg-logo="https://iptvx.one/picons/udmurtia.png" catchup="default" catchup-source="http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8?profile=*&offset=-${offset}"  catchup-days="7",Удмуртия
+http://rt-vlg-izhsk-htlive.cdn.ngenix.net/hls/CH_R03_MYUDMURTIA/variant.m3u8
 #EXTINF:-1 group-title="Региональные" tvg-id="mir-belogoria" tvg-logo="https://iptvx.one/picons/mir-belogoria.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=152&index-${start}-${offset}.m3u8" catchup-days="168",Мир Белогорья
 #EXTVLCOPT:http-user-agent=smartlabs
 https://albug020.github.io/channels/belogorie.m3u8
