@@ -278,7 +278,7 @@ https://albug020.github.io/channels/muztvplus4.m3u8
 #EXTINF:-1 catchup="default" group-title="Общероссийские +" tvg-logo="https://iptvx.one/picons/muztv-pl7.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0ebfb86bba5e7fec5494bdee4c097026e1a3f5c2287c0b8bd609c2187f7fe3f465acad90b9/tracks-v2a1/index-${start}-${offset}.m3u8" catchup-days="168", Муз ТВ (+6)
 #EXTVLCOPT:http-user-agent=smartlabs
 https://albug020.github.io/channels/muztvplus6.m3u8
-#EXTINF:-1 tvg-id="10286" catchup="default" group-title="Кино" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10286/logo_256_1658736631.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0ebfb86bba5e7fea5391a1e9491d7723faa4f0d92f791e8cd30bc51d7f78e6d862a9ef97bc95b84a/tracks-v2a1/index-${start}-${offset}.m3u8" catchup-days="168", КиноМеню HD
+#EXTINF:-1 tvg-id="10286" catchup="default" group-title="Кино и Сериалы" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10286/logo_256_1658736631.png" catchup-source="https://hlsarchive.iptv2022.com/f7960e0ebfb86bba5e7fea5391a1e9491d7723faa4f0d92f791e8cd30bc51d7f78e6d862a9ef97bc95b84a/tracks-v2a1/index-${start}-${offset}.m3u8" catchup-days="168", КиноМеню HD
 #EXTVLCOPT:http-user-agent=smartlabs
 https://albug020.github.io/channels/kinomenu.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы" tvg-id="kinopremiera-hd" tvg-logo="https://iptvx.one/picons/kinopremiera.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=3013&index-${start}-${offset}.m3u8" catchup-days="168", Кинопремьера HD
