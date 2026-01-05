@@ -317,7 +317,7 @@ https://albug020.github.io/channels/nashe_n_kino.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы" tvg-id="kinosezon" tvg-logo="https://iptvx.one/picons/kinosezon.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=3108&index-${start}-${offset}.m3u8" catchup-days="168",КиноСезон 
 #EXTVLCOPT:http-user-agent=smartlabs
 https://albug020.github.io/channels/kinosezon.m3u8
-#EXTINF:-1 group-title="Кино и Сериалы" tvg-id="blokbaster-hd" tvg-logo="https://iptvx.one/picons/blokbaster.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=5238&index-${start}-${offset}.m3u8" catchup-days="168",Блокбастер HD
+#EXTINF:-1 group-title="Кино и Сериалы" tvg-id="blokbaster" tvg-logo="https://iptvx.one/picons/blokbaster.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=5238&index-${start}-${offset}.m3u8" catchup-days="168",Блокбастер HD
 #EXTVLCOPT:http-user-agent=smartlabs
 https://albug020.github.io/channels/blokbaster.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы" tvg-id="pro-lyubov" tvg-logo="https://iptvx.one/picons/pro-lyubov.png" catchup="default" catchup-source="http://server-2.onlinetv-sochi.ru:8080/tv/lime.php?id=5245&index-${start}-${offset}.m3u8" catchup-days="168", Про Любовь HD
